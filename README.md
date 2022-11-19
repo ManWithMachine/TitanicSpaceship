@@ -14,4 +14,4 @@ Transported_rfc.csv
 These are the files that contains my predictions using 4 different models.  
 
 Note:  
-Although Random forrest classifier had the best score for training data (Almost 100%), with Tensor flow model I achived best result 0.79!  
+Although Random forrest classifier had the best score for training data (Almost 100%), with Tensor flow model I achived best result in this competition 0.79!  
